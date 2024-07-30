@@ -9,7 +9,7 @@
 
 ## Habilidades
 
-<div>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="width: 60px;" alt="HTML5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="width: 60px;" alt="CSS3">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width: 60px;" alt="JavaScript">
@@ -19,26 +19,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width: 60px;" alt="React Native">
 </div>
 
-## Projetos
-
-### Projeto 1: Plataforma E-commerce
-
-- **Tecnologias Utilizadas**: PHP, React, MySQL
-- **Descrição**: Uma plataforma de e-commerce completa com autenticação de usuário, gestão de produtos e integração de pagamentos.
-
-### Projeto 2: Aplicativo de Mídia Social
-
-- **Tecnologias Utilizadas**: React Native, Firebase
-- **Descrição**: Um aplicativo de mídia social cross-platform com chat em tempo real, compartilhamento de fotos e notificações push.
-
-### Projeto 3: Ferramenta de Gerenciamento de Tarefas
-
-- **Tecnologias Utilizadas**: React, Node.js, Express.js, MongoDB
-- **Descrição**: Uma ferramenta de gerenciamento de tarefas com papéis de usuário, atribuição de tarefas e acompanhamento de prazos.
-
 ## Contato
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/arthur-amorim-gomes-b20821261/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
