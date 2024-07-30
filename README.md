@@ -10,8 +10,7 @@
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthuragomes&show_icons=true&theme=transparent&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthuragomes&layout=compact&theme=transparent)
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=arthuragomes)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arthuragomes&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arthuragomes&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)
 
 
 ## Habilidades
