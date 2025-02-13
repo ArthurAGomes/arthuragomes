@@ -3,7 +3,7 @@
 ## Sobre Mim
 
 - 🔭 Full stack developer
-- 🌱 Estudando JavaScript e PHP
+- 🌱 Estudando JavaScript e Java
 - 👨‍💻 Apaixonado por desenvolver interfaces intuitivas e responsivas
 - 🌐 Interessado em desenvolvimento web e mobile
 - 🧠 Sempre em busca de aprender novas tecnologias e melhorar minhas habilidades
